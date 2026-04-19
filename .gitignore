@@ -1,0 +1,18 @@
+# Dependencies
+.venv/
+venv/
+
+# Credentials (NEVER commit these)
+.env
+
+# Debug artifacts (may contain session data)
+debug_output/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
