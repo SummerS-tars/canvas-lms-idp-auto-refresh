@@ -114,6 +114,10 @@ python elearning_login.py --cleanup-old-tokens
 - **IDP 接口变更**：若 JSON 字段或 HTML 结构发生变化，脚本可能失效
 - **SAML 2.0（非 CAS）**：不直接支持
 
+## 补充文档
+
+- [项目背景与应用场景说明](docs/project-background.md) — 复旦 eLearning 平台架构背景、典型应用场景、技术选型说明
+
 ## 许可证
 
 MIT
